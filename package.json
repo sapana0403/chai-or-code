@@ -1,19 +1,14 @@
 {
-  "name": "chaibackend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "basic backend learning",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
-  "keywords": [
-    "node",
-    "chai"
-  ],
-  "author": "sapana ghale",
+  "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "dotenv": "^16.4.7",
     "express": "^4.21.2"
   }
 }
